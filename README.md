@@ -1,2 +1,2 @@
 # English-Dictionary
- An English Dictionary inn Python
+ An English Dictionary in Python
